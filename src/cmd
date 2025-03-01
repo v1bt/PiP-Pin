@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --icon=src/icon.ico --add-data "src/icon.ico;." src/pip_pin.py
